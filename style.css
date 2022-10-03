@@ -1,4 +1,20 @@
 body{
     text-align: center;
-    background-color: rgb(37, 114, 88);
+    background-color: rgb(27, 90, 69);
+}
+.beneficios {
+  text-align: left;  
+  background-color: rgb(175, 179, 174);
+}
+.foto-beneficios {
+    width: 40%;
+    margin-left: 100px;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 150px;
+}
+li {
+    padding: 20px;
 }
