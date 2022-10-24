@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color: rgb(27, 90, 69);
+    background: linear-gradient(rgb(27, 90, 69),  rgb(42, 65, 35));
 }
 header {
     padding: 20px 0;
@@ -42,7 +42,6 @@ nav a:hover{
 }
 .beneficios {
   text-align: left;  
-  background-color: rgb(175, 179, 174);
 }
 .foto-beneficios {
     width: 30%;
